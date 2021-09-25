@@ -1,2 +1,1 @@
-# AppStartup-
-Landing-Page Sample for a startup app
+TinDog Starting Files
