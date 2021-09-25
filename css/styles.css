@@ -168,7 +168,7 @@ a:hover {
 }
 /* Media Query */
 
-@media (max-width: 978px) {
+@media (max-width: 990px) {
   .top-container {
   text-align:center;
   overflow:visible;
